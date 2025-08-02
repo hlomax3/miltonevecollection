@@ -14,10 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+As the host of one of the largest collections of Milton material in North America, Western University has access to a wide range of materials, especially concerning Paradise Lost, Milton's great epic poem. This site hosts a selection of illustrations of Eve, one of the epic's main characters, spanning her first appearance in Eden to her shaming and expulsion from paradise with Adam. The images show how Eve is depicted visually by external illustrators, exploring how her character, as represented by Milton, has been interpreted by others.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
